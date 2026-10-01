@@ -1,0 +1,13 @@
+{
+  "facilities": [
+    {"name": "Demo Trauma Hospital", "type": "hospital", "lat": 17.4239, "lon": 78.5019, "specialty": ["trauma"], "beds_available": 6, "source": "illustrative_mock"},
+    {"name": "Demo Burns Unit", "type": "hospital", "lat": 17.3850, "lon": 78.4867, "specialty": ["burns"], "beds_available": 3, "source": "illustrative_mock"},
+    {"name": "Demo Police Station", "type": "police", "lat": 17.4010, "lon": 78.4900, "source": "illustrative_mock"},
+    {"name": "Demo Fire Station", "type": "fire_station", "lat": 17.4150, "lon": 78.5000, "source": "illustrative_mock"}
+  ],
+  "response_teams": [
+    {"name": "Demo ALS Ambulance 01", "type": "ambulance", "lat": 17.4010, "lon": 78.4900, "source": "illustrative_mock"},
+    {"name": "Demo Fire Unit 01", "type": "fire_station", "lat": 17.4150, "lon": 78.5000, "source": "illustrative_mock"},
+    {"name": "Demo Police Unit 01", "type": "police", "lat": 17.3950, "lon": 78.4800, "source": "illustrative_mock"}
+  ]
+}

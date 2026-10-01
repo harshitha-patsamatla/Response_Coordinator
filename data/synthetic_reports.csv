@@ -1,0 +1,701 @@
+text,labels,language
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+A damaged streetlight is sparking near the market; please check it.,Other|Building Collapse,en
+A robbery is happening by the market road. Please send help.,Crime,en
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+A damaged streetlight is sparking near the market; please check it.,Other,en
+There is an unusual hazard near the bus stop; responders should assess.,Other|Road Accident,en
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+The road is submerged near College Gate; residents need rescue.,Flood,en
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+The road is submerged near College Gate; residents need rescue.,Flood|Medical,en
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident|Fire,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+A robbery is happening by the market road. Please send help.,Crime|Fire,en
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+Someone has severe bleeding near the bus stop.,Medical,en
+A shop is burning and smoke is spreading near the bus stop.,Fire|Road Accident,en
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime|Medical,hi
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical|Flood,hi
+Someone has severe bleeding near the bus stop.,Medical,en
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+A car crash at the market road; one person is bleeding.,Road Accident,en
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+The road is submerged near College Gate; residents need rescue.,Flood,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse|Flood,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire|Building Collapse,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+A robbery is happening by the market road. Please send help.,Crime,en
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood|Building Collapse,hi
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+A car crash at the market road; one person is bleeding.,Road Accident,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+Someone has severe bleeding near the bus stop.,Medical,en
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+A shop is burning and smoke is spreading near the bus stop.,Fire|Road Accident,en
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+Someone has severe bleeding near the bus stop.,Medical,en
+A car crash at the market road; one person is bleeding.,Road Accident,en
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other|Crime,te
+A damaged streetlight is sparking near the market; please check it.,Other,en
+A car crash at the market road; one person is bleeding.,Road Accident,en
+A car crash at the market road; one person is bleeding.,Road Accident,en
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+The road is submerged near College Gate; residents need rescue.,Flood,en
+A damaged streetlight is sparking near the market; please check it.,Other|Crime,en
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+A car crash at the market road; one person is bleeding.,Road Accident|Crime,en
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood|Medical,hi
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+The road is submerged near College Gate; residents need rescue.,Flood,en
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other|Fire,hi
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse|Other,te
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical|Crime,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+A car crash at the market road; one person is bleeding.,Road Accident,en
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"Part of a house fell near the market, and two people are missing.",Building Collapse|Other,en
+A shop is burning and smoke is spreading near the bus stop.,Fire|Building Collapse,en
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+A damaged streetlight is sparking near the market; please check it.,Other,en
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+Someone has severe bleeding near the bus stop.,Medical,en
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+There is an unusual hazard near the bus stop; responders should assess.,Other|Fire,en
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident|Crime,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+The road is submerged near College Gate; residents need rescue.,Flood,en
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+Bike accident near College Gate. Two people injured.,Road Accident|Other,en
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+A car crash at the market road; one person is bleeding.,Road Accident|Flood,en
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident|Flood,te
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+Someone has severe bleeding near the bus stop.,Medical,en
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+Bike accident near College Gate. Two people injured.,Road Accident,en
+An assault was reported near College Gate; police assistance is needed.,Crime|Medical,en
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+The road is submerged near College Gate; residents need rescue.,Flood|Fire,en
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood|Building Collapse,te
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+A robbery is happening by the market road. Please send help.,Crime,en
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+The road is submerged near College Gate; residents need rescue.,Flood,en
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical|Other,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident|Flood,te
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+The road is submerged near College Gate; residents need rescue.,Flood,en
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse|Flood,hi
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+A robbery is happening by the market road. Please send help.,Crime|Fire,en
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"Part of a house fell near the market, and two people are missing.",Building Collapse|Fire,en
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime|Medical,hi
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+Someone has severe bleeding near the bus stop.,Medical,en
+Flood water is rising near the bus stop and two people are stranded.,Flood|Other,en
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse|Crime,hi
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood|Building Collapse,hi
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+A car crash at the market road; one person is bleeding.,Road Accident,en
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+Someone has severe bleeding near the bus stop.,Medical,en
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+A robbery is happening by the market road. Please send help.,Crime,en
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+A damaged streetlight is sparking near the market; please check it.,Other,en
+Bike accident near College Gate. Two people injured.,Road Accident,en
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood|Fire,te
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime|Road Accident,te
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident|Crime,te
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+A car crash at the market road; one person is bleeding.,Road Accident,en
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse|Crime,te
+Bike accident near College Gate. Two people injured.,Road Accident|Medical,en
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime|Other,hi
+Bike accident near College Gate. Two people injured.,Road Accident,en
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire|Flood,hi
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical|Building Collapse,te
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+Someone has severe bleeding near the bus stop.,Medical,en
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+Someone has severe bleeding near the bus stop.,Medical,en
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+The road is submerged near College Gate; residents need rescue.,Flood,en
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+Bike accident near College Gate. Two people injured.,Road Accident,en
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical|Other,en
+Fire and smoke near College Gate; two people are trapped.,Fire|Road Accident,en
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+A robbery is happening by the market road. Please send help.,Crime|Fire,en
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+A robbery is happening by the market road. Please send help.,Crime,en
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other|Flood,te
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood|Road Accident,te
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other|Crime,hi
+A car crash at the market road; one person is bleeding.,Road Accident,en
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+The road is submerged near College Gate; residents need rescue.,Flood|Fire,en
+The road is submerged near College Gate; residents need rescue.,Flood,en
+Someone has severe bleeding near the bus stop.,Medical,en
+Someone has severe bleeding near the bus stop.,Medical|Flood,en
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+A robbery is happening by the market road. Please send help.,Crime,en
+Bike accident near College Gate. Two people injured.,Road Accident,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse|Fire,en
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical|Flood,en
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime|Fire,te
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+A robbery is happening by the market road. Please send help.,Crime,en
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+Someone has severe bleeding near the bus stop.,Medical,en
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse|Road Accident,en
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+The road is submerged near College Gate; residents need rescue.,Flood,en
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+"కాలేజ్ గేట్ రోడ్డుపై నీరు చేరింది, సహాయం కావాలి.",Flood,te
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other|Flood,hi
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other|Flood,te
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+Bike accident near College Gate. Two people injured.,Road Accident,en
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse|Flood,te
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire|Building Collapse,hi
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire|Building Collapse,te
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+A shop is burning and smoke is spreading near the bus stop.,Fire,en
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+"బస్ స్టాప్ దగ్గర ప్రమాదకర పరిస్థితి ఉంది, పరిశీలించండి.",Other,te
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident|Flood,hi
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+Bike accident near College Gate. Two people injured.,Road Accident,en
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire|Building Collapse,te
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+Someone has severe bleeding near the bus stop.,Medical|Other,en
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+The road is submerged near College Gate; residents need rescue.,Flood,en
+A car crash at the market road; one person is bleeding.,Road Accident,en
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+The road is submerged near College Gate; residents need rescue.,Flood,en
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+Flood water is rising near the bus stop and two people are stranded.,Flood,en
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"బస్ స్టాప్ వద్ద వాహనాలు ఢీకొన్నాయి, గాయపడిన వారికి సహాయం కావాలి.",Road Accident,te
+The road is submerged near College Gate; residents need rescue.,Flood,en
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+बाजार के पास स्ट्रीट लाइट से चिंगारी निकल रही है।,Other,hi
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire|Crime,hi
+दुकान में आग लगी है और धुआँ फैल रहा है।,Fire,hi
+A building collapsed near College Gate; people may be trapped inside.,Building Collapse,en
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical|Road Accident,te
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime|Other,te
+"कॉलेज गेट की सड़क पानी में डूबी है, बचाव दल चाहिए।",Flood,hi
+మార్కెట్ రోడ్డుపై దోపిడీ జరుగుతోంది.,Crime,te
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"Part of a house fell near the market, and two people are missing.",Building Collapse,en
+A person is unconscious near Gandhi Hospital and needs an ambulance.,Medical,en
+A damaged streetlight is sparking near the market; please check it.,Other,en
+"కాలేజ్ గేట్ దగ్గర మంటలు, పొగ వస్తోంది; ఇద్దరు లోపల ఉన్నారు.",Fire,te
+బస్ స్టాప్ దగ్గర ఒకరికి తీవ్ర రక్తస్రావం అవుతోంది.,Medical,te
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+"ఇంటి భాగం కూలింది, ఇద్దరు కనిపించడం లేదు.",Building Collapse,te
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+"बस स्टॉप के पास बाढ़ का पानी बढ़ रहा है, दो लोग फँसे हैं।",Flood,hi
+Two vehicles collided near the bus stop and people need help.,Road Accident,en
+A robbery is happening by the market road. Please send help.,Crime,en
+Bike accident near College Gate. Two people injured.,Road Accident,en
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+"कॉलेज गेट के पास इमारत गिर गई है, लोग अंदर फँसे हो सकते हैं।",Building Collapse,hi
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+"बस स्टॉप के पास खतरा है, जाँच के लिए मदद भेजें।",Other,hi
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+"कॉलेज गेट के पास हमला हुआ है, पुलिस सहायता चाहिए।",Crime,hi
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"బస్ స్టాప్ దగ్గర వరద నీరు పెరుగుతోంది, ఇద్దరు చిక్కుకున్నారు.",Flood,te
+"గాంధీ ఆసుపత్రి దగ్గర ఒక వ్యక్తి స్పృహలో లేరు, అంబులెన్స్ కావాలి.",Medical,te
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical,hi
+A robbery is happening by the market road. Please send help.,Crime,en
+"దుకాణంలో అగ్ని ప్రమాదం జరిగింది, సహాయం పంపండి.",Fire,te
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+"కాలేజ్ గేట్ దగ్గర దాడి జరిగింది, పోలీసు సహాయం కావాలి.",Crime,te
+"కాలేజ్ గేట్ దగ్గర భవనం కూలింది, లోపల వ్యక్తులు చిక్కుకున్నారు.",Building Collapse,te
+"बाजार रोड पर लूट हो रही है, मदद भेजें।",Crime,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+"कॉलेज गेट के पास आग और धुआँ है, दो लोग अंदर फँसे हैं।",Fire,hi
+An assault was reported near College Gate; police assistance is needed.,Crime,en
+కాలేజ్ గేట్ దగ్గర బైక్ ప్రమాదం. ఇద్దరు గాయపడ్డారు.,Road Accident,te
+There is an unusual hazard near the bus stop; responders should assess.,Other,en
+"बस स्टॉप के पास गाड़ी टकराई है, घायलों को मदद चाहिए।",Road Accident,hi
+मकान का हिस्सा गिरा है और दो लोग लापता हैं।,Building Collapse,hi
+మార్కెట్ దగ్గర వీధి దీపం నుండి నిప్పురవ్వలు వస్తున్నాయి.,Other,te
+बस स्टॉप के पास एक व्यक्ति का बहुत खून बह रहा है।,Medical|Other,hi
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+Fire and smoke near College Gate; two people are trapped.,Fire,en
+"गांधी अस्पताल के पास एक व्यक्ति बेहोश है, एम्बुलेंस चाहिए।",Medical,hi
+"कॉलेज गेट के पास बाइक दुर्घटना हुई, दो लोग घायल हैं।",Road Accident,hi
+Someone has severe bleeding near the bus stop.,Medical,en
