@@ -11,6 +11,12 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+if __name__ == "__main__" and not st.runtime.exists():
+    raise SystemExit(
+        "This is a Streamlit app. Start it with: "
+        "python -m streamlit run app.py"
+    )
+
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "src"))
 
@@ -304,8 +310,13 @@ def main() -> None:
     st.title("Response Coordinator")
     st.caption("Decision support only. For a real emergency, contact local emergency services directly.")
     try:
-        _, store, _, _ = services()
-        st.caption(f"Reports: {len(store.list_incidents())} · retention: {RETENTION_DAYS} days · model downloads: {'enabled' if ALLOW_MODEL_DOWNLOAD else 'disabled'}")
+        _, store, geo, _ = services()
+        map_name = type(geo).__name__.replace("Provider", "")
+        map_status = "live services enabled" if geo.enabled else "using mock services (Google key missing/placeholder or lookups disabled)"
+        st.caption(
+            f"Reports: {len(store.list_incidents())} · retention: {RETENTION_DAYS} days · "
+            f"map: {map_name} ({map_status}) · model downloads: {'enabled' if ALLOW_MODEL_DOWNLOAD else 'disabled'}"
+        )
         intake_tab, queue_tab, analytics_tab, audit_tab = st.tabs(["Report intake", "Operations", "Analytics", "Audit"])
         with intake_tab:
             render_intake()

@@ -179,7 +179,8 @@ class GoogleMapsProvider(OpenStreetMapProvider):
     def __init__(self, mock_path: Path, landmarks_path: Path, api_key: str | None = None) -> None:
         super().__init__(mock_path, landmarks_path)
         self.api_key = api_key or os.getenv("GOOGLE_MAPS_API_KEY")
-        self.enabled = self.enabled and bool(self.api_key)
+        has_real_key = bool(self.api_key) and not self.api_key.startswith("YOUR_")
+        self.enabled = self.enabled and has_real_key
 
     def _nominatim_geocode(self, query: str) -> tuple[float, float] | None:
         if not self.enabled:

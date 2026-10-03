@@ -27,13 +27,24 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+Create a local `.env` from the included template and replace the placeholder with your own restricted Google Maps API key:
+
+```powershell
+if (-not (Test-Path .env)) { Copy-Item .env.example .env }
+notepad .env
+```
+
+The `.env` file is ignored by Git. Never commit or paste a real API key into source code or chat. In Google Cloud, restrict the key to the Geocoding API, Places API, and Directions API (and restrict it to your local/deployment environment as appropriate). `MAP_PROVIDER=google` selects this adapter; without a valid key, the app falls back to local mock data.
+
 Install FFmpeg separately (for example, with `winget install Gyan.FFmpeg.Shared`) and reopen the terminal so `ffmpeg` is on `PATH`.
 
 Start the dashboard from the project directory:
 
 ```powershell
-streamlit run app.py
+python -m streamlit run app.py
 ```
+
+Do not launch the UI with `python app.py`. That executes the file outside Streamlit's runtime, causing the `missing ScriptRunContext` and session-state warnings shown in your terminal. Keep that PowerShell process open while using the printed local URL; stop it with `Ctrl+C`.
 
 The first report may download the multilingual zero-shot classifier and YOLO COCO weights. Sentence embeddings download only when duplicate matching first needs them. These models can consume substantial disk, memory, and CPU; a GPU is optional. Set `ALLOW_MODEL_DOWNLOAD=false` to use the built-in rule classifier unless a trained checkpoint is present.
 

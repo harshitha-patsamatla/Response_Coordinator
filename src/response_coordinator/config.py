@@ -3,8 +3,11 @@
 import os
 from pathlib import Path
 
+from dotenv import load_dotenv
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
+load_dotenv(PROJECT_ROOT / ".env", override=False)
+
 DATA_DIR = PROJECT_ROOT / "data"
 MODEL_DIR = PROJECT_ROOT / "models" / "emergency-xlm-roberta"
 DB_PATH = Path(os.getenv("COORDINATOR_DB_PATH", PROJECT_ROOT / ".data" / "incidents.sqlite3"))
